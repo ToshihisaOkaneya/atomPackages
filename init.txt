@@ -1,0 +1,6 @@
+apm install japanese-menu
+apm install autoclose-html
+apm install atom-beautifier
+apm install minimap
+apm install project-manager
+apm install open-in-browser
