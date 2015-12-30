@@ -1,4 +1,3 @@
-apm install japanese-menu
 apm install autoclose-html
 apm install atom-beautifier
 apm install minimap
