@@ -1,6 +1,8 @@
 apm install autoclose-html
 apm install atom-beautifier
 apm install minimap
+apm install minimap-find-and-replace
+apm install minimap-cursorline
 apm install project-manager
 apm install open-in-browser
 apm install browser-plus
