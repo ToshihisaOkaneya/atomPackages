@@ -6,3 +6,4 @@ apm install minimap-cursorline
 apm install project-manager
 apm install open-in-browser
 apm install browser-plus
+apm install goto-definition
