@@ -7,3 +7,4 @@ apm install project-manager
 apm install open-in-browser
 apm install browser-plus
 apm install goto-definition
+apm install emmet
