@@ -1,5 +1,3 @@
-apm install autoclose-html
-apm install atom-beautifier
 apm install minimap
 apm install minimap-find-and-replace
 apm install minimap-cursorline
